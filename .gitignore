@@ -1,4 +1,4 @@
-.vscode/
+**/.vscode/
 *.sln
-**/obj
-**/bin
+**/obj/
+**/bin/
