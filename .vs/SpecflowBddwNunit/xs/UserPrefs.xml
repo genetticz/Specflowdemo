@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{EF2A4E36-8790-4D84-BBFC-8D630F109464}|Default">
+  <MonoDevelop.Ide.ItemProperties.SpecflowBddwNunit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpecflowBddwNunit/StepDefinitions/FormSteps.cs">
+    <Files>
+      <File FileName="SpecflowBddwNunit/Features/Links.feature" Line="8" Column="27" />
+      <File FileName="SpecflowBddwNunit/Features/Forms.feature" />
+      <File FileName="SpecflowBddwNunit/StepDefinitions/LinksSteps.cs" />
+      <File FileName="SpecflowBddwNunit/StepDefinitions/FormSteps.cs" Line="9" Column="14" />
+      <File FileName="SpecflowBddwNunit/Pages/AutomationPage.cs" />
+      <File FileName="SpecflowBddwNunit/Pages/FormPage.cs" />
+      <File FileName="SpecflowBddwNunit/StepDefinitions/Hooks.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpecflowBddwNunit" expanded="True">
+            <Node name="SpecflowBddwNunit" expanded="True">
+              <Node name="Features" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Report" expanded="True" />
+              <Node name="screenshots" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
