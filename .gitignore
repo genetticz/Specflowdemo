@@ -1,2 +1,2 @@
-/SpecflowBddwNunit/obj
-**/bin/**
+/SpecflowBddwNunit/obj/**
+/SpecflowBddwNunit/bin/**
